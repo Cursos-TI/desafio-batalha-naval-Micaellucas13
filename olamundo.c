@@ -20,6 +20,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("DESAFIO SUPER TRUNFO");
     int i;
     //cadastrar as variaveis
     // Estrutura simples de uma carta (fixo 2 cartas)
